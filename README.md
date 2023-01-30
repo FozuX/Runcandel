@@ -12,7 +12,7 @@ python3 -m pip install -r requirements.txt
 ```
 2. Start Runcandel
 ```
-python3 poseidon.py
+python3 runcandel.py
 ```
 
 ## Cara Pakai encrypt
